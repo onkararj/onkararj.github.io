@@ -10,7 +10,7 @@
 /* Wrapper */
 
 	#wrapper {
-		background: red !important;
+		background: blue !important;
 	}
 
 		#wrapper.fade-in:before {
@@ -30,5 +30,6 @@
 			transform: none;
 			opacity: 1;
 		}
+
 
 
